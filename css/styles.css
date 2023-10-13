@@ -51,3 +51,7 @@ header a {
 .gradient-custom {
 	background: grey;
   }
+
+  .login-img{
+	overflow: hidden;
+  }
