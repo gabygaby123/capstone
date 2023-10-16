@@ -24,12 +24,12 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="registration.html">REGISTRATION
+            <a class="nav-link active" href="login.html">LOGIN
               <span class="visually-hidden">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="login.html">LOGIN
+            <a class="nav-link active" href="registration.html">REGISTRATION
               <span class="visually-hidden">(current)</span>
             </a>
           </li>
@@ -71,26 +71,25 @@
                       <div class="card-body p-4 p-lg-5 text-black">
         
                         <form>
-        
-                          
-                          
-        
                           <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Sign into your account</h5>
         
                           <div class="form-outline mb-4">
-                            <input type="email" id="form2Example17" class="form-control form-control-lg" />
+                            <input required type="email" id="form2Example17" class="form-control form-control-lg" />
                             <label class="form-label" for="form2Example17">Email address</label>
                           </div>
         
                           <div class="form-outline mb-4">
-                            <input type="password" id="form2Example27" class="form-control form-control-lg" />
+                            <input minlength="5" required type="password" id="form2Example27" class="form-control form-control-lg" />
                             <label class="form-label" for="form2Example27">Password</label>
                           </div>
         
                           <div class="pt-1 mb-4">
-                          <a href="products.html"><button class="btn btn-dark btn-lg btn-block" type="button">Login</button></a>
+                          <a href="products.html"><button type="submit" class="btn btn-dark mt-3">Register</button></a>
                           </div>
-        
+                          <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label mb-2" for="exampleCheck1">Remember Me</label>
+                          </div>
                           <p class="mb-5 pb-lg-2" style="color: #393f81;">Don't have an account? <a href="registration.html"
                               style="color: #393f81;">Register here</a> for discounts!</p>
                         </form>
