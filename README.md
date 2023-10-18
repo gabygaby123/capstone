@@ -6,7 +6,7 @@ ___
 
 This Website sells Peso Pluma merchandise.
 
-I have a an 
+On my website there is a home, log in, registration, products and checkout page.
 
 
 
