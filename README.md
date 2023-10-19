@@ -57,9 +57,9 @@ The background is a gradient from purple to black.
 
 There are 6 six products for sale on this page:
 
-Pink Peso Pluma Hat that retails for $30
-Black Peso Pluma Hat that retails for $30
-Peso Pluma Ski Mask that retails for $30 
-Peso Pluma Tour T-Shirt that retails for $45
-Peso Pluma Classic T-Shirt that retails for $45
-Peso Pluma Hoodie that retails for $65
+- Pink Peso Pluma Hat that retails for $30
+- Black Peso Pluma Hat that retails for $30
+- Peso Pluma Ski Mask that retails for $30 
+- Peso Pluma Tour T-Shirt that retails for $45
+- Peso Pluma Classic T-Shirt that retails for $45
+- Peso Pluma Hoodie that retails for $65
