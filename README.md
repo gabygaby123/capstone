@@ -8,16 +8,19 @@ This Website sells Peso Pluma merchandise.
 
 On my website there is a Home, Log in, Registration, Products and Checkout page.
 
+Special attributes such as input boxes, button and image display, have all been made poossible with bootstrap!
+
+Check out Bootstrap here : https://getbootstrap.com/docs/5.3/getting-started/introduction/
 ## Home Page 
 
-At the top of this page and all my pages, I have a responsive nav bar, with the Peso Pluma logo that takes the user back to the home page. I made this nav bar with bootstrap. 
+At the top of this page and all my pages, I have a responsive nav bar, with the Peso Pluma logo that takes the user back to the home page. I made this nav bar . 
 
 On my home page I have a video of Peso Pluma preforming.
 
 Right below that, I have a quote from Peso, "We Are Peso Pluma."
 
 There are 2 short paragraphs afterwards, describing the artist and motive for my website. 
-I also list what items I have for sale. Below that, I have his tour listing. The listings are images displayed with the bootstrap "card" attribute. 
+I also list what items I have for sale. Below that, I have his tour listing. The listings are images displayed with the "card" attribute. 
 
 This is all displayed in front of a gradient background that goes from black to purple. 
 The gradient effect is applied on all pages for consistency.
@@ -29,9 +32,9 @@ ____
 ## Login Page
 
 At the very top of this page, there is quote from Peso, "We are Peso Pluma" that links to his Instagram.
-The login page has 2 bootstrap input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respectable html attributes: required, min length and email attributes. 
+The login page has 2 input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respectable html attributes: required, min length and email attributes. 
 
-These input boxes are followed by a "Login" bootstrap button and a "Remember Me" bootstrap checkbox. 
+These input boxes are followed by a "Login" button and a "Remember Me" checkbox. 
 
 If the user does not have an account, they can create one with a link that's below the checkbox. This link sends the user to the Register page. 
 
@@ -68,7 +71,7 @@ All these items are displayed with the "card" attribute on bootstrap.
 
 The products also have an “Add To Cart" checkbox.
 
-At the end is an “Add to cart" bootstrap button, followed by the logo.
+At the end is an “Add to cart" button, followed by the logo.
 
 ## Checkout Page
 
@@ -91,4 +94,6 @@ There are six input boxes:
 
 After they input their information, there is an "Agree to terms and conditions" checkbox, followed by a “submit form” button. 
 This button will validate the user’s input. 
+
+Thank you for viewing my site!
 
