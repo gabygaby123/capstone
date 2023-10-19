@@ -10,14 +10,14 @@ On my website there is a Home, Log in, Registration, Products and Checkout page.
 
 ## Home Page 
 
-At the top of this page and all my pages, I have a responsive nav bar with the Peso Pluma logo that takes the user back to the home page.
+At the top of this page and all my pages, I have a responsive nav bar, with the Peso Pluma logo that takes the user back to the home page. I made this nav bar with bootstrap. 
 
 On my home page I have a video of Peso Pluma preforming.
 
 Right below that, I have a quote from Peso, "We Are Peso Pluma"
 
 There are 2 short paragraphs afterwards, descibing the artist and motive for my website. 
-I also list what items I have for sale. Below that, I have his tour listing. 
+I also list what items I have for sale. Below that, I have his tour listing. the listings are images displayed with the bootstrap "card" attribute. 
 
 This is all diplayed infront of a gradient background that goes from black to purple. 
 The gradient effect is applied on all pages for consistency.
@@ -29,9 +29,9 @@ ____
 ## Login Page
 
 At the very top of the this page, there is quote from Peso, "We are Peso Pluma" that links to his Instagram.
-The login page has 2 input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respecable html attributes: required, min length and email attributes. 
+The login page has 2 bootstrap input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respecable html attributes: required, min length and email attributes. 
 
-These input boxes are followed by a "Login" button and a "Remember Me" checkbox. 
+These input boxes are followed by a "Login" bootstrap button and a "Remember Me" bootstrap checkbox. 
 
 If the user does not have an account, they can create one with a link that's bellow the checkbox. This link sends the user to the Register page. 
 
@@ -63,3 +63,9 @@ There are 6 six products for sale on this page:
 - Peso Pluma Tour T-Shirt that retails for $45
 - Peso Pluma Classic T-Shirt that retails for $45
 - Peso Pluma Hoodie that retails for $65
+
+All of these items are displayed with the "card" atribute on bootstrap. 
+
+The products also have a "Add To Cart" checkbox.
+
+At the end is a "Add to cart" bootstrap button, followed by the logo.
