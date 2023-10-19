@@ -25,7 +25,9 @@ ____
 ## Login Page
 
 The login page has 2 input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respecable html attributes: required, min length and email attributes. 
+
 These input boxes are followed by a "Register" button and a "Remember Me" checkbox. 
+
 If the user does not have an account, they can create one with a link that's bellow the checkbox. This link sends the user to the Register page. 
 
 
