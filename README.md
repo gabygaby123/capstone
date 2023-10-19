@@ -31,7 +31,7 @@ ____
 At the very top of the this page, there is quote from Peso, "We are Peso Pluma" that links to his Instagram.
 The login page has 2 input boxes. The top box allows the user to input their email address. The bottom box allows the user to input their password. These two inputs have respecable html attributes: required, min length and email attributes. 
 
-These input boxes are followed by a "Register" button and a "Remember Me" checkbox. 
+These input boxes are followed by a "Login" button and a "Remember Me" checkbox. 
 
 If the user does not have an account, they can create one with a link that's bellow the checkbox. This link sends the user to the Register page. 
 
@@ -46,4 +46,19 @@ The fourth, for an email.
 Below that, I have a "How did you hear about?" us section.
 The user can respond to the questions with radio button that answer "Advertisment", "Social Media" or "radio"
 
-Then they can click on the "Register
+Then they can click on the "Register" button.
+
+This page's background is a gradient from purple to black.
+At the botton is his logo.
+
+## Products page
+His quote is ontop of this page. 
+The background is a gradient from purple to black. 
+
+There are 6 six products for sale on this page:
+Pink Peso Pluma Hat that retails for $30
+Black Peso Pluma Hat that retails for $30
+Peso Pluma Ski Mask that retails for $30 
+Peso Pluma Tour T-Shirt that retails for $45
+Peso Pluma Classic T-Shirt that retails for $45
+Peso Pluma Hoodie that retails for $65
