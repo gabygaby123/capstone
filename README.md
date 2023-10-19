@@ -38,6 +38,8 @@ These input boxes are followed by a "Login" button and a "Remember Me" checkbox.
 
 If the user does not have an account, they can create one with a link that's below the checkbox. This link sends the user to the Register page. 
 
+_____
+
 ## Registration Page
 On the registration page, I have 4 input boxes. 
 
@@ -53,6 +55,8 @@ Then they can click on the "Register" button.
 
 This page's background is a gradient from purple to black.
 At the bottom is his logo.
+
+______
 
 ## Products page
 His quote is on top of this page. 
@@ -72,6 +76,8 @@ All these items are displayed with the "card" attribute on bootstrap.
 The products also have an “Add To Cart" checkbox.
 
 At the end is an “Add to cart" button, followed by the logo.
+
+_____
 
 ## Checkout Page
 
